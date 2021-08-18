@@ -1,7 +1,7 @@
 ### Hi there, I'm Davidson Felix 👋
 
 
-- 📚 Undergraduate Student in Análise e Desenvolvimento de Sistemas - IFPE 
+- 📚 Undergraduate Student in Aalysis and Sstems Dvelopment - IFPE (Federal Institute of Pernambuco)
 - 🕵️‍♀️ Always being curious and building things
 - 👯 I’m available to help and learn together
 - 🔭 I’m currently interested in front-end development
