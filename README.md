@@ -4,7 +4,7 @@
 - 📚 Undergraduate Student in Analysis and Systems Development - IFPE (Federal Institute of Pernambuco)
 - 🕵️‍♀️ Always being curious and building things
 - 👩🏿‍🤝‍🧑🏾  I’m available to help and learn together
-- 🔭 I’m currently interested in front-end development
+- 🔭 I’m currently interested in full stack development
 - ⚡ producer music and Programmer xD
 - 📍 Recife, Brazil
 
